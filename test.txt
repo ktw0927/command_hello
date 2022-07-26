@@ -1,7 +1,7 @@
+//For commit GitHub tutorial
+//GitHub modification
 print("hello world");
 print("Tell your World");
-<<<<<<< HEAD
 print("Tell his World");
-=======
 print("Tell her World");
->>>>>>> hotfix
+
